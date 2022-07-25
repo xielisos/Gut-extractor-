@@ -1,0 +1,4 @@
+#need to be downloaded and installed
+https://www.python.org/downloads/
+https://github.com/victoriapascal/gutsmash
+
